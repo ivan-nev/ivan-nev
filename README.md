@@ -1,39 +1,41 @@
 ### Привет!
 
-Я <b>Невакшёнов Иван</b>, разработчик на python.
+Я <b>Невакшёнов Иван</b>, разработчик на python. (https://github.com/ivan-nev/ivan-nev/blob/master/CV-python.pdf)
 
 ### Мой стек
 
-Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, Charmander, PostgreSQL, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, Celery, Redis
+Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis
 
 ### Вот, что я умею
 
-- Django, drf, docker, github actions, shell ()
+- AioHttp (https://github.com/ivan-nev/AioHttp)
 
-- FastAPI, Postgresql, Docker, Docker-compose ()
+- SQLAlchemy (https://github.com/ivan-nev/BD_Pyton_ORM)
 
-- Django, drf ()
+- Docker-compose, Flask. [Примеры в репозитории](https://github.com/ivan-nev/Flask_with_docker-compose)
 
-- Django. [Домашние работы по курсу Django]()
+- Django. [Домашние работы по курсу Django](https://github.com/ivan-nev/Django)
 
-- Flask, Asyncio, Aiohttp, Docker, Docker-compose. [Примеры в репозитории]()
+- Flask, Asyncio, Aiohttp, Docker, Docker-compose. [Примеры в репозитории](https://github.com/ivan-nev/Flask_with_docker-compose)
 
-- SQL (postgres, mysql). [Итоговая работа по курсу SQL и получение данных]()
+- SQL (postgres, mysql). [Итоговая работа по курсу SQL и получение данных](https://github.com/ivan-nev/Bd_4_SQL_Pyton)
 
-- Python. [Репозиторий с дипломной работой]()
+- Курсовой проек. [Резервное копирование на Я.Диск фотографий VK](https://github.com/ivan-nev/Kursovoy_VK_Ya)
+
+- Python. [Репозиторий с дипломной работой](https://github.com/ivan-nev/python-final-diplom)
 
 ### Сертификаты Нетологии
 
-- GIT
+- [GIT](https://github.com/ivan-nev/ivan-nev/blob/master/git.pdf)
 
-- Python 
+- [Python](https://github.com/ivan-nev/ivan-nev/blob/master/basyc.pdf) 
 
-- Django 
+- [Django](https://github.com/ivan-nev/ivan-nev/blob/master/Django.pdf) 
 
-- Python в web-разработке 
+- [Python в web-разработке](https://github.com/ivan-nev/ivan-nev/blob/master/python-web.pdf) 
 
-- SQL и получение данных 
+- [SQL и получение данных](https://github.com/ivan-nev/ivan-nev/blob/master/SQL.pdf) 
 
-- Python профессиональная работа
+- [Python профессиональная работа](https://github.com/ivan-nev/ivan-nev/blob/master/python-prof.pdf)
 
 
