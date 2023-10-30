@@ -1,6 +1,6 @@
 ### Привет!
 
-Я <b>Невакшёнов Иван</b>, разработчик на python. (https://github.com/ivan-nev/ivan-nev/blob/master/CV-python.pdf)
+Я <b>Невакшёнов Иван</b>, разработчик на python. Резюме (https://github.com/ivan-nev/ivan-nev/blob/master/CV-python.pdf)
 
 ### Мой стек
 
